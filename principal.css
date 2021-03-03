@@ -1,0 +1,47 @@
+h1{
+	border-color:blue;
+border-width:5px;
+border-style:solid;
+}
+h2{
+	border-top-color:red;
+	border-top-width:7px;
+	border-top-style:double;
+
+	border-right-color:blue;
+	border-right-width:7px;
+	border-right-style:double;
+
+	border-bottom-color:black;
+	border-bottom-width:7px;
+	border-bottom-style: double;
+
+
+	border-left-color:green;
+	border-left-width:7px;
+	border-left-style: double;
+
+}
+
+h3{
+
+font-family:arial, helvetica;
+background:#e8e8e8;
+
+
+	list-style:none;
+	padding: 0;
+	background: #092327;
+	width: 20%;
+	max-width: 100%;
+	margin: auto;
+
+
+	text-decoration:none;
+	color: white;
+	padding: 1.5%;
+	display: block;
+
+	display: inline-block;
+	text-align: center;
+}
